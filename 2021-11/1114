@@ -1,0 +1,7 @@
+<한글>
+International fair가 줌에서 하기 때문에 뒷배경 부스를 꾸며야 한다고 한다. 그래서 팀원들이 모여 예시로 보내준 부스 5개 중 후보 4번을 하기로 했고 거기서 2개의 판넬을 하나는 기업용 하나는 사용자용으로 꾸미기로 결정했다. 하지만 판넬을 꾸미고 줌을 켜보니 눈에 잘 띄지 않았다. 이 점을 내일 다니엘 코치에게 피드백을 받고 어떻게 보여줘야 할지 다시 생각해봐야겠다.
+개발 쪽에서는 사용자가 좋아요를 눌렀는지 안눌렀는지 판단할 수 있는 방법이 없다는 문제점이 생겼다. 그래서 데이터베이스에 글과 댓글, 답글의 좋아요를 누른 사람과 글 번호를 저장시켜 그 문제점을 해결했다. 하지만 실행하는데 시간이 많이 들 수 있어 더 좋은 방법을 생각해봐야겠다.
+<외국어>
+The international fair is held using Zoom, said koreapen. So, you need to decorate the booth in the background. The team members gathered and decided to do No. 4 candidate out of the 5 booths sent as examples, and decided to decorate two panels, one for business and one for users. But when I decorated the panel and turned on the zoom, it was hard to see. I'm going to get feedback from Coach Daniel tomorrow on this point and think again about how to show it.
+On the development side, there was a problem that there was no way to determine whether the user clicked like or not. So, I solved the problem by storing the post, comments, and replies like people and post numbers in the database. But it can take a lot of time to implement, so I'll have to think of a better way.
+
