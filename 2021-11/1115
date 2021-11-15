@@ -1,0 +1,7 @@
+<한글>
+카드 뉴스를 SNS에 12일까지 내기 위해 PM과 함께 아이디어 및 초안을 만들었다. 보기 편하게 내용을 줄이고 핵심단어만 사용하기 때문에 어려울 수 있었는데 가볍게 생각하고 쓰니까 저번 카드뉴스보다 쉽게 쓸 수 있었다. 초안을 다 만든 후 디자이너님에게 드렸다. 이제 디자이너님이 디자인을 해준 후 SNS에 올리면 끝이 난다.
+개발 쪽은 프로필 수정 및 프로필 이미지 수정 API를 만들어 프런트 개발자와 함께 프로필 관련 기능을 추가했다. 이미지 수정할 때 어떻게 판단해야할지 모르는 문제가 있었지만 이미지를 바꾼 후의 데이터가 달라지는 것으로 판단하여 수정하는 방식으로 해결할 수 있었다. 이제 사용자에게 알림을 줄 수 있게 하는 기능에 대해 공부한 후 개발 스프린트에 맞게 개발을 이어가야겠다.
+<외국어>
+I made an idea and draft with the PM to post card news on SNS by the 12th. It could be difficult because the content was reduced to make it easier to see and only key words were used. Thinking about it lightly, I was able to make it more easily than the previous card news. After making the draft, I gave it to the designer. Now, after the designer has designed the design, upload it on social media and you are done.
+The development side added profile-related functions together with the front developer by creating an API to edit the profile and edit the profile image. There was a problem that I did not know how to judge when editing the image, but it was solved by judging that the data after changing the image is different and correcting it. Now, after studying the function that allows users to be notified, I will continue to develop according to the development sprint.
+
