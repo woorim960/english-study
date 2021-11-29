@@ -1,0 +1,6 @@
+<한글>
+우리의 앱에 어떤 오류가 발생하는지 개발자들에게 알려주기 위해 QA를 진행하고, QA 체크리스트를 만들었다. 각 페이지마다 하나 하나의 기능을 확인하며, 되는 기능과 안 되는 기능을 나누어 체크리스트를 작성했다. 처음해보는 QA여서 흥미로웠고, 개발자들이 못 찾았던 오류를 찾는 과정이 즐거웠다. QA를 하면서 아직 우리 앱에서 기본적으로 안 되는 기능들이 몇 개 있다는 것을 알게되었다. 향후 다음 QA에도 체크리스트를 확인하며, 오류들을 찾아줘야겠다. 
+
+<외국어>
+QA was conducted to inform developers of any errors in our app, and a QA checklist was created. Each page checked one function, and a checklist was created by dividing the functions that worked and did not work. It was interesting because it was my first QA, and I enjoyed the process of finding errors that developers could not find. While doing QA, I found out that there are still some functions that are basically not available in our app. In the future, we should check the checklist in the next QA and find the errors.
+
