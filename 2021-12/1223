@@ -1,0 +1,17 @@
+오늘은 졸업식 하루 전날이다.
+HI-GPTP의 업무는 따로 없다.
+그래서 난 그 동안 HI-GPTP를 하면서 개발된 U-Market 서비스를 보완하기로 했다.
+먼저, DB의 성능을 대폭 향상시키고자 한다. 이번에 시도해볼 것은 MySQL의 InnoDB Cluster를 활용하여 Fail Over Cluster를 구성하고자 한다. 클러스터 구성은 데이터베이스의 모든 분야를 섭렵하고 최종 단계에 수행하는 최고난이도 기술이다. 모든 분야의 공부를 마친 것은 아니지만, Fail Over를 구성할 필요성을 느껴 미리 시도해보았다.
+
+실패다… 아침 10시부터 저녁 10시까지 이거에만 매달렸는데.. 실패했다. 실패를 통해 많은 것을 배웠으니, 내일은 꼭 성공하리라.
+아, 내일은 졸업식이니 이틀 뒤에 시도해봐야지! :D
+
+<외국어>
+Today is the day before graduation.
+There is no separate work of HI-GPTP.
+So I decided to supplement the U-Market service developed during HI-GPTP.
+First of all, I will improve so much the performance of the DB. What we will try this time is to configure the Fail Over Cluster using MySQL's InnoDB Cluster. Cluster configuration is the highest difficulty technology that penetrates all fields of the database and performs it in the final stage. I didn't finish studying in all fields, but I felt the need to organize Fail Over, so I tried it in advance.
+
+I failed... I tried it on this from 10am to 10pm. I failed. I learned a lot from failure, so I will definitely succeed tomorrow.
+Ah! Tomorrow is my graduation day, so I'll try it in two days! :D
+
